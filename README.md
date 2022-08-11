@@ -1,6 +1,7 @@
 ![갠지스강](https://media.istockphoto.com/photos/varanasi-india-people-performing-morning-ablutions-on-the-ganges-picture-id546445158)
 
-글쓴이의 말 [저자소개](저자소개.md)
+글쓴이의 말 
+[저자소개](저자소개.md)
 
 14년 전, 인도에 갔을 때 이야기이다. 우리는 카레를 먹으며 라씨를 마시고, 갠지스강에 온 몸을 맡겼다. 
 그 때 얻은 경험으로 이 책을 시작해 보려고 한다.
